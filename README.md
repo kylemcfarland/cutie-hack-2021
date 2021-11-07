@@ -3,3 +3,4 @@ This is my very first project and my submission to Cutie Hack 2021.
 It contains two lists I created of insulting adjectives and nouns. 
 The generator randomly selects a adjective and noun from the list, and calls the user this unique insult. 
 The program asks the user only for a Y/N input, if an invalid answer is provided, it will insult them further.
+By the end of the program, we will provide a small compliment to the user, and suggest where they can recover from their wounds.
